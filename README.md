@@ -1,7 +1,6 @@
 Maxim Joel Carbonell-Kiamtia
 mjcarbon
-Spring 2021
-Assignment 6 
+
 
 ---------------------
 DESCRIPTION: This directory is for the purposes of encoding characters in a file, generating a histogram, generating a huffman tree, and decoding the codes with a reconstructed huffman tree to decode a file back to its orignal state. 
